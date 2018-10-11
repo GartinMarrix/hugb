@@ -1,0 +1,24 @@
+{
+  "name": "hugb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "jest",
+    "watch": "jest --watchAll", 
+    "clean": "rm -rf node_modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GartinMarrix/hugb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GartinMarrix/hugb/issues"
+  },
+  "homepage": "https://github.com/GartinMarrix/hugb#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
